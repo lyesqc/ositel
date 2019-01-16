@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/documentation/java/junit4_4.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/documentation/java/assertj-core-1.0.0.jar/assertj-core-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
